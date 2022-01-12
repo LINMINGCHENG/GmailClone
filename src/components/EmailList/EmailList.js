@@ -41,7 +41,7 @@ function EmailList() {
             </div>
 
             <div className="emailList_sections">
-
+                <Setion Icon={InboxIcon}
             </div>
 
 
